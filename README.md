@@ -33,10 +33,4 @@ Chatbot simples construído em React para praticar componentes, gerenciamento de
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davimartins187&show_icons=true&theme=default)
-
----
-
 <sub>📅 Documentando minha jornada no PROA Transforme-se — Senac. Bora crescer juntos!</sub>
