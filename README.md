@@ -57,8 +57,11 @@ Tenho interesse em desenvolvimento de software, construção de APIs RESTful, mo
 
 <div align="center">
 
-<a href="https://lnkd.in/d5ziMZyN">
-  <img src="https://img.shields.io/badge/Conheça%20o%20projeto-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://github.com/CrashWare-TCC/TCC_CrashWare">
+  <img src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://crashware.onrender.com/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-20C997?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -78,7 +81,7 @@ A plataforma tem como objetivo promover a educação sobre hardware e software, 
 <div align="center">
 
 <a href="https://github.com/davimartins187/react-chatbot">
-  <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -100,16 +103,6 @@ Chatbot desenvolvido com React para praticar a criação de componentes, o geren
 <br>
 
 <img src="https://streak-stats.demolab.com?user=davimartins187&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davimartins187&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
