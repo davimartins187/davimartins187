@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2563eb&height=180&section=header&text=Davi%20Martins&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=60&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Técnico+em+Desenvolvimento+de+Sistemas;Estudando+Java+e+Spring+Boot;Construindo+projetos+e+evoluindo+como+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Técnico+em+Desenvolvimento+de+Sistemas;Estudando+Java+e+Spring+Boot;Construindo+projetos+e+evoluindo+como+dev)](https://git.io/typing-svg)
 
 <a href="https://github.com/davimartins187">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -34,19 +34,19 @@ Tenho interesse em desenvolvimento de software, construção de APIs RESTful, mo
 <h3 align="center">Back-end</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </div>
 
 <h3 align="center">Front-end</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
 </div>
 
 <h3 align="center">Ferramentas</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 </div>
 
 ---
@@ -83,6 +83,9 @@ A plataforma tem como objetivo promover a educação sobre hardware e software, 
 <a href="https://github.com/davimartins187/react-chatbot">
   <img src="https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://davimartins187.github.io/react-chatbot/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-20C997?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
@@ -95,12 +98,6 @@ Chatbot desenvolvido com React para praticar a criação de componentes, o geren
 ## Estatísticas do GitHub
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=davimartins187&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimartins187&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=davimartins187&theme=tokyonight&hide_border=true" />
 
