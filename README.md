@@ -24,7 +24,7 @@ Sou **Técnico em Desenvolvimento de Sistemas formado pela ETEC Lauro Gomes** e 
 Tenho interesse em desenvolvimento de software, construção de APIs RESTful, modelagem de bancos de dados e integração entre aplicações. Meu objetivo é evoluir como desenvolvedor e construir soluções eficientes e bem estruturadas.
 
 - **Atualmente estudando:** Java, Spring Boot e desenvolvimento back-end.
-- **Aprofundando conhecimentos em:** Programação Orientada a Objetos, APIs REST, PostgreSQL e boas práticas de desenvolvimento.
+- **Aprofundando conhecimentos em:** Programação Orientada a Objetos, APIs REST, MySql e boas práticas de desenvolvimento.
 - **Também tenho contato com:** React, JavaScript, HTML e CSS.
 
 ---
@@ -34,7 +34,7 @@ Tenho interesse em desenvolvimento de software, construção de APIs RESTful, mo
 <h3 align="center">Back-end</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker" />
 </div>
 
 <h3 align="center">Front-end</h3>
