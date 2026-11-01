@@ -113,22 +113,6 @@ Estou comprometido com meu aprendizado contínuo, desenvolvendo projetos prátic
 
 ---
 
-## Onde me encontrar
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/davisouzamartins/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/davimartins187">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:davi.s.martins.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <br><br>
 
 <sub>Construindo minha jornada no desenvolvimento de software, um projeto de cada vez.</sub>
